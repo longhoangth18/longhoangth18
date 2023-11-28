@@ -7,4 +7,4 @@
 - 🌱 **Growing Me Cyber Armor**: Currently honin' me skills, learnin' the secret arts of intrusion detection and vulnerability patchin' to fortify me stronghold.
 - 💞️ **Seekin' Cyber Comrades**: Lookin' to join forces with fellow BlueTeam buccaneers on quests to safeguard our digital treasures.
 - 📫 **How to Parley with This Seafarer?**: Ye can send a carrier pigeon... or perhaps a more modern approach like using the GitHub messaging system.
-- 💞️ **and I come from the beautiful country of Vietnam
+- 💞️ **and I come from the beautiful country of Vietnam**
